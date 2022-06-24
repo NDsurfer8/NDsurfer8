@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NDsurfer8
-- 👀 I’m interested in creating applications to help the world...
-- 🌱 Full Stack Web Developer
-- 💞️ I’m looking to collaborate on Interesting ideas...
+- 👋 Hi, I’m Noah Duran
+- 👀 I’m interested in creating applications to improve our world
+- 🌱 Full Stack Web Developer. Python, Java and MERN.
+- 💞️ I’m looking to collaborate on Interesting ideas improve the lives of the peole around us
 - 📫 How to reach me ...
+noahduran911@gmail.com
 
 <!---
 NDsurfer8/NDsurfer8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
