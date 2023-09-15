@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Noah Duran and I have been in and around coding all my life.
-     I’m interested in creating mobile and web applications to improve our world and help everyone
-     to achieve their goals in the most convenient way possible while enjoying their lives to the fullest.
-- 🌱 I went to Coding Dojo to learn Full-Stack Web Development and loved every moment of and how front-end 
-     and back-end work together to get the desired result. Teamwork is crucial in technology and being able
-     see how everything works together in a seamless way is a good example of how teams in the real world should
-     work.  I would love to collaborate with any interesting ideas or projects that anyone might be interested in
-     pursuing.  let’s work together and make the world a happier more fruitful experience for everyone.
+👋 Hi, I’m Noah Duran, and coding has been a lifelong passion of mine. I'm on a mission to create mobile and web applications that make the world a better place while enhancing the convenience and joy of daily life.
+
+📱 Recently, I developed Langiddy, a language learning chat app available for download on the App Store. Langiddy enables people to learn languages from their everyday chat messages.
+
+🌱 I honed my Full-Stack Web Development skills at Coding Dojo and fell in love with the synergy between front-end and back-end development. I believe in the power of teamwork and how it mirrors real-world collaboration. I'm enthusiastic about collaborating on interesting ideas and projects that can make the world a happier and more productive place. Let's work together to create a brighter future for everyone!
+
 
 
 
