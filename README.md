@@ -1,6 +1,6 @@
 👋 Hi, I’m Noah Duran, and coding has been a lifelong passion of mine. I'm on a mission to create mobile and web applications that make the world a better place while enhancing the convenience and joy of daily life.
 
-📱 Recently, I developed Langiddy, a language learning chat app available for download on the App Store. Langiddy enables people to learn languages from their everyday chat messages.
+📱 Recently, I developed Langiddy, a language learning chat app available for download on the App Store and Google Play Store. Langiddy enables people to learn languages from their everyday chat messages.
 
 🌱 I honed my Full-Stack Web Development skills at Coding Dojo and fell in love with the synergy between front-end and back-end development. I believe in the power of teamwork and how it mirrors real-world collaboration. I'm enthusiastic about collaborating on interesting ideas and projects that can make the world a happier and more productive place. Let's work together to create a brighter future for everyone!
 
